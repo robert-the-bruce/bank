@@ -23,9 +23,6 @@ Version 2019.1
 https://www.jetbrains.com/phpstorm/download/#section=windows
 
 
-Ich habe mich für Phpstorm entschieden da ich in meiner Arbeit meistens damit arbeite und es Tools enthält die beim
-
-
 ### XAMPP
 
 * Apache 2.4.38
